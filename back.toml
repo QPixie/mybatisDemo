@@ -1,4 +1,5 @@
 [tool.black]
 # https://github.com/psf/black
 line-length = 120
-targe
+target-version = ["py38"]
+exclu
