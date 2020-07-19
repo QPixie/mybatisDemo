@@ -1,2 +1,3 @@
 module.exports = {
-  pres
+  presets: [
+    '@vue/c
