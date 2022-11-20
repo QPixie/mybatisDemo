@@ -1,4 +1,6 @@
 
 defaults:
   - dataset: 
-  - log
+  - logging: 
+  - optimizer: 
+ 
