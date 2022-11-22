@@ -4,4 +4,5 @@ defaults:
   - logging: 
   - optimizer: 
   - scheduler: 
-  - m
+  - model: 
+  - callbacks:
