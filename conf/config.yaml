@@ -7,4 +7,5 @@ defaults:
   - model: 
   - callbacks: 
   - data:
-  - dat
+  - dataset:
+  - datamodul
