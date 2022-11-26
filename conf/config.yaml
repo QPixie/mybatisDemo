@@ -9,4 +9,7 @@ defaults:
   - data:
   - dataset:
   - datamodule:
-  - augmentat
+  - augmentation: 
+
+general:
+  save_d
