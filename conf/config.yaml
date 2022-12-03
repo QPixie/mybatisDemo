@@ -14,4 +14,8 @@ defaults:
 general:
   save_dir:
   project_name: 
-  d
+  device: 
+
+hydra:
+  run:
+    
