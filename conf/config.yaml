@@ -12,4 +12,6 @@ defaults:
   - augmentation: 
 
 general:
-  save_d
+  save_dir:
+  project_name: 
+  d
