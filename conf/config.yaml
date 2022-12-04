@@ -18,4 +18,4 @@ general:
 
 hydra:
   run:
-    
+    dir: outputs/${now:%Y_%m_
