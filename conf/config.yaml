@@ -21,4 +21,4 @@ hydra:
     dir: outputs/${now:%Y_%m_%d_%H_%M_%S}
   sweep:
     dir: outputs/
-    subdir: ${now:%Y_%m_%d_%H_%M
+    subdir: ${now:%Y_%m_%d_%H_%M_%S}
