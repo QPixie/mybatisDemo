@@ -2,4 +2,5 @@ fastapi:
   debug: True
 
 databases:
- 
+  default:
+    ENGIN
