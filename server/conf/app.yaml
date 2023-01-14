@@ -6,4 +6,5 @@ databases:
     ENGINE: ''
     DRIVER: ''
     NAME: ''
-    USE
+    USER: ''
+    PASSWOR
