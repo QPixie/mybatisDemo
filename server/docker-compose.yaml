@@ -3,4 +3,4 @@ version: '3.1'volumes:
   # Main App
   tancho:
     build: .
-    co
+    command: uvicorn main
