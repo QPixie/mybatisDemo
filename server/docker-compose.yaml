@@ -3,4 +3,4 @@ version: '3.1'volumes:
   # Main App
   tancho:
     build: .
-    command: uvicorn main
+    command: uvicorn main:app --host 0.0.0.0
