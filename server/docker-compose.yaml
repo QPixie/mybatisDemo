@@ -7,4 +7,5 @@ version: '3.1'volumes:
     volumes:
       - ./tancho:/tancho
     ports:
-      - 
+      - "8000:8000"
+    depe
