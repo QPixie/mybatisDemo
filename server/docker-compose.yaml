@@ -9,4 +9,6 @@ version: '3.1'volumes:
     ports:
       - "8000:8000"
     depends_on:
-        - mongo  # MongoDB as a servic
+        - mongo  # MongoDB as a service
+  mongo:
+    image: mong
