@@ -14,4 +14,4 @@ version: '3.1'volumes:
     image: mongo
     restart: always
     environment:
-      MO
+      MONGO_INITDB_ROOT_
