@@ -17,4 +17,6 @@ version: '3.1'volumes:
       MONGO_INITDB_ROOT_USERNAME: ""
       MONGO_INITDB_ROOT_PASSWORD: ""
     volumes:
-        - mongo_data
+        - mongo_data:/data/db
+    ports:
+    
