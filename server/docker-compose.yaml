@@ -19,4 +19,4 @@ version: '3.1'volumes:
     volumes:
         - mongo_data:/data/db
     ports:
-    
+      - "27017:27017"
