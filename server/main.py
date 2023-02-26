@@ -5,3 +5,5 @@ databases:
   default:
     ENGINE: ''
     DRIVER: ''
+    NAME: ''
+    U
