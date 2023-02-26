@@ -3,4 +3,5 @@ fastapi:
 
 databases:
   default:
-   
+    ENGINE: ''
+    DRIVER: ''
