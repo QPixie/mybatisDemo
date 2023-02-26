@@ -1,4 +1,6 @@
 fastapi:
   debug: True
 
-database
+databases:
+  default:
+   
