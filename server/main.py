@@ -7,4 +7,5 @@ databases:
     DRIVER: ''
     NAME: ''
     USER: ''
-    PASSWO
+    PASSWORD: ''
+    HOST: '
