@@ -8,4 +8,5 @@ databases:
     NAME: ''
     USER: ''
     PASSWORD: ''
-    HOST: '
+    HOST: ''
+    PORT: ''
